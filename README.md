@@ -10,6 +10,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+🔗 **Live demo:** https://stale-signer-b21.netlify.app
 📜 **BlockchainAcceleratorCertificate:** [0xBcBf9EB50D2124e92e1C0F9867959A2189937619](https://sepolia.etherscan.io/address/0xBcBf9EB50D2124e92e1C0F9867959A2189937619)
 
 ---
